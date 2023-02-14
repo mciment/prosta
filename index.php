@@ -7,5 +7,6 @@
     <?php
       echo "Aplikacja php działa";
     ?>
+    Potwierdzam, że działa.
   </body>
 </html>
